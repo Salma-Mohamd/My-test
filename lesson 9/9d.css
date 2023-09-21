@@ -1,0 +1,15 @@
+div {
+  background-color: rgb(53, 52, 52);
+  color: white;
+  font-family: arial;
+  padding: 3px 12px;
+  width: 350px;
+}
+.title {
+  font-weight: bold;
+  font-size: 18px;
+}
+.detils {
+  font-size: 15px;
+  color: rgb(209, 208, 208);
+}

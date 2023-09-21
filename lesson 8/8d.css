@@ -1,0 +1,74 @@
+.one-line {
+  border-color: rgb(187, 187, 187);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  font-family: tahoma;
+  font-size: 11px;
+  width: 100px;
+  padding: 7px 6px;
+  margin-bottom: 10px;
+}
+
+.block {
+  display: block;
+  border-color: rgb(187, 187, 187);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  font-family: tahoma;
+  font-size: 11px;
+  width: 216px;
+  padding: 7px 6px;
+  margin-bottom: 10px;
+
+}
+
+button {
+  background-color: rgb(15, 109, 233);
+  color: white;
+  border-style: none;
+  border-radius: 5px;
+  padding: 10px 0;
+  width: 230px;
+  font-weight: bold;
+}
+
+/* What saimon use */
+/* input {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.first-name {
+  width: 148px;
+}
+
+.last-name {
+  width: 148px;
+}
+
+.email {
+  display: block;
+  width: 300px;
+}
+
+button {
+  background-color: rgb(47, 127, 231);
+  color: white;
+  border: none;
+  width: 300px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+} */

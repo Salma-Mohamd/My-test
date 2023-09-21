@@ -1,0 +1,7 @@
+.shadow {
+    font-size: 10px;
+    border-style: none;
+    width: 90%;
+    padding: 12px;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2)
+}

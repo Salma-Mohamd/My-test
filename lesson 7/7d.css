@@ -1,0 +1,8 @@
+.textbox {
+    font-size: 15px;
+    border-style: solid;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    padding: 8px 10px;
+}

@@ -1,0 +1,58 @@
+.btn-sub {
+    background-color: rgb(214, 2, 2);
+    color: white ;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 9px;
+    transition: opacity 0.15s;
+}
+.btn-sub:hover {
+    opacity: 0.7;
+}
+
+.btn-sub:active {
+    opacity: 0.4;
+}
+/* padding in button its pretty good not the same as highet and width */
+.btn-join {
+    background-color: white;
+    color: rgb(0, 140, 255);
+    border-color: rgb(0, 140, 255);
+    border-style: solid;
+    border-width: 1px;
+    padding: 9px 16px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.15s,
+        color 0.15s;
+}
+
+.btn-join:hover {
+    background-color: rgb(0, 140, 255);
+    color: white;
+}
+
+.btn-join:active{
+    opacity: 0.7;
+}
+
+.btn-tweet{
+    background-color: rgb(0, 153, 255);
+    color: white;
+    border: none;
+    padding: 9px 17px;
+    border-radius: 19px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    transition: box-shadow 0.20s;
+}
+
+.btn-tweet:hover {
+    /* box shadow take 4 value 1= right 2= down 3= blur 5= color */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20) ;
+    /* for rgba > its the same as rgb exept the a value its for opacity */
+}  

@@ -1,0 +1,25 @@
+*{
+    vertical-align: middle;
+}
+.onepiece {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+
+}
+.search-bar {
+    border-style: none;
+    margin-left: 5px;
+    width: 50%;
+    font-size: 11px;
+}
+button {
+    background-color: rgb(67, 164, 230);
+    color: white;
+    border: none;
+    padding: 6px 14px;
+    border-radius: 19px;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;
+}
