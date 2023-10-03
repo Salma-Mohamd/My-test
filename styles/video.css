@@ -1,0 +1,44 @@
+
+/* parent contanier */
+.video-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 15px;
+    row-gap: 30px;
+
+}
+
+.video-info-grid{
+    display: grid;
+    grid-template-columns: 60px 1fr;
+}
+.img-1 {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.channel-pic {
+    width: 40px;
+}
+.profile-pic {
+    width:50px;
+    border-radius: 50%;
+}
+.video-info {
+    width: 100%;
+}
+.video-title{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+.video-author,
+.video-stats{
+    font-size: 15px;
+    line-height: 1.5;
+    color: rgb(96, 96, 96);
+}
+
+
+
+
+
